@@ -41,9 +41,9 @@ First we will do some data detective work. The datasets that we have here have s
 
 
 # Solution
-Here, I have approached 3 facets of data analysis such as 
+Here, I have approached 3 facets of data analysis as below.
 1. Dealing missing data
-2. We will eliminate some structural issues: Tidiness
-3. Then we will deal with content issues: Quality
+2. Eliminating some structural issues: Tidiness
+3. Cleaning some content issues: Quality
 
 Each will be dealt with in a separate .ipnyb file
