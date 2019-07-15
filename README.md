@@ -38,3 +38,12 @@ First we will do some data detective work. The datasets that we have here have s
 2. Three variables in two columns in treatments table (treatment, start dose and end dose)
 3. Adverse reaction should be part of the treatments table
 4. Given name and surname columns in patients table duplicated in treatments and adverse_reactions tables
+
+
+# Solution
+Here, I have approached 3 facets of data analysis such as 
+1. Dealing missing data
+2. We will eliminate some structural issues: Tidiness
+3. Then we will deal with content issues: Quality
+
+Each will be dealt with in a separate .ipnyb file
